@@ -36,7 +36,6 @@ Languages and Tools:
   <img src="https://www.thymeleaf.org/images/thymeleaf.png" title="thymeleaf" alt="thymeleaf" width="40" height="40"/>&nbsp;
     <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" title="Maven" alt="Maven" width="70" height="40"/>&nbsp;
 </div>
----
 
 My Stats :
 ---
