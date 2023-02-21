@@ -35,7 +35,12 @@ Languages and Tools:
       <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain-wordmark.svg" title="gradle" alt="gradle" width="40" height="40"/>&nbsp;
   <img src="https://www.thymeleaf.org/images/thymeleaf.png" title="thymeleaf" alt="thymeleaf" width="40" height="40"/>&nbsp;
     <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" title="Maven" alt="Maven" width="70" height="40"/>&nbsp;
-
-
-
 </div>
+---
+
+My Stats :
+---
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kiba013&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiba013)](https://github.com/anuraghazra/github-readme-stats)
